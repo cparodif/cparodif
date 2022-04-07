@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cparodif (from Cádiz, Spain)
-- 👀 I’m interested in ... rpi, python, esp32, c, openwrt, photovoltaic energy, iot.
+- 👀 I’m interested in ... rpi, python, esp32, c, openwrt, photovoltaic energy, iot, spanish accounting software.
 - 🌱 I’m currently learning ... noooo! ... I´m retiree ... 65 years old
 - 💞️ I’m looking to collaborate on ... free software
 - 📫 How to reach me ... t.me/cp057
